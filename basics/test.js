@@ -1,1 +1,2 @@
-console.log("Rushi");
+const accountId="he";
+console.log(accountId);
